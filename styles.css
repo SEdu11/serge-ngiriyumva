@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: rgb(41, 7, 71);
+    text-decoration: wavy;
+}
+body{
+    background-image: url("ww.jpg");
+}
+p{
+    color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    color: rgb(19, 233, 233);
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    font-size: 1cm;
+    text-decoration: none;
+}
